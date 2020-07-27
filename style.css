@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+
+}
+.clock{
+  position: absolute;
+  top:20%;
+  left: 30%;
+  width: 30%;
+  height: 65%;
+  border-radius: 100%;
+  border:25px solid #18ACD9;
+}
+.hand{
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 100%;
+  border:3px solid black;
+  width: 45%;
+  left: 5%;
+  top: 50%;
+  color: black;
+  border-radius: 10%;
+  transition: all 0.5s;
+}
