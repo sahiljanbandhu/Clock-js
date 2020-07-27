@@ -1,2 +1,4 @@
 # Clock-js
-simple clock made with js-css-html
+Simple clock made with js-css-html
+
+The project can view live [here](https://sahiljanbandhu.github.io/Clock-js/)
